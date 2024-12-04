@@ -16,7 +16,7 @@
 | **Windows** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/windows.png) | `1x2` |
 | **Wintarion** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/wintarion.png) | `2x1` |
 
-# 🖼️ Liste des Textures
+# 🖼️ Liste des Textures à Ajouté
 
 | Nom de la Texture | Exemple | Taille (Hauteur x Largeur) |
 |-------------------|-----------------------|-----------------------------|
