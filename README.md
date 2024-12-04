@@ -20,7 +20,7 @@
 
 | Nom de la Texture | Exemple | Taille (Hauteur x Largeur) |
 |-------------------|-----------------------|-----------------------------|
-| **Bearless_ Head* | [Clique ici](https://mc-heads.net/avatar/Bearless_/512) | `1x1` |
+| **Bearless_ Head** | [Clique ici](https://mc-heads.net/avatar/Bearless_/512) | `1x1` |
 | **Legibier1 Head** | [Clique ici](https://mc-heads.net/avatar/Legibier1/512) | `1x1` |
 | **Wintarion Head** | [Clique ici](https://mc-heads.net/avatar/Wintarion/512) | `1x1` |
 | **Nesky311 Head** | [Clique ici](https://mc-heads.net/avatar/Nesky311/512) | `1x1` |
