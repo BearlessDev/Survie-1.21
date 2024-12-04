@@ -1,7 +1,7 @@
 # 🖼️ Liste des Textures
 
 | Nom de la Texture | Lien | Taille (Hauteur x Largeur) |
-|-------------------|-----------------------|-----------------------------|
+|:-------------------:|:-----------------------:|:-----------------------------:|
 | **Bearless_** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/bearless_.png) | `2x1` |
 | **Chill** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/chill.png) | `3x2` |
 | **Discord** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/discord.png) | `1x2` |
@@ -19,7 +19,7 @@
 # 🖼️ Liste des Textures à Ajouté
 
 | Nom de la Texture | Exemple | Taille (Hauteur x Largeur) |
-|-------------------|-----------------------|-----------------------------|
+|:-------------------:|:-----------------------:|:-----------------------------:|
 | **Bearless_ Head** | [Clique ici](https://mc-heads.net/avatar/Bearless_/512) | `1x1` |
 | **Legibier1 Head** | [Clique ici](https://mc-heads.net/avatar/Legibier1/512) | `1x1` |
 | **Wintarion Head** | [Clique ici](https://mc-heads.net/avatar/Wintarion/512) | `1x1` |
