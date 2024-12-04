@@ -2,7 +2,7 @@
 
 | Nom de la Texture | Lien | Taille (Hauteur x Largeur) |
 |-------------------|-----------------------|-----------------------------|
-| **Bearless\_** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/bearless_.png) | `2x1` |
+| **Bearless_** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/bearless_.png) | `2x1` |
 | **Chill** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/chill.png) | `3x2` |
 | **Discord** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/discord.png) | `1x2` |
 | **Gd** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/gd.png) | `2x4` |
