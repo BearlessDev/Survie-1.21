@@ -18,6 +18,10 @@
 | **Tidal Wave Page** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/tidal_wave_page.png) | `1x2` |
 | **Tidal Wave Gameplay** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/tidal_wave_gameplay.png) | `1x2` |
 | **GTA V Gameplay** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/gta_gameplay.png) | `1x2` |
+| **Bearless_ Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/bearless_head.png) | `1x1` |
+| **Legibier1 Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/legibier1_head.png) | `1x1` |
+| **Wintarion Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/wintarion_head.png) | `1x1` |
+| **Nesky311 Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/nesky_head.png) | `1x1` |
 
 # 🖼️ Liste des Textures à Ajouté
 
