@@ -15,9 +15,14 @@
 | **Propagande** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/propagande.png) | `2x4` |
 | **Windows** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/windows.png) | `1x2` |
 | **Wintarion** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/wintarion.png) | `2x1` |
+| **Tidal Wave Page** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/tidal_wave_page.png) | `1x2` |
+| **Tidal Wave Gameplay** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/tidal_wave_gameplay.png) | `1x2` |
+| **GTA V Gameplay** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/gta_gameplay.png) | `1x2` |
 
 # 🖼️ Liste des Textures à Ajouté
 
 | Nom de la Texture | Exemple | Taille (Hauteur x Largeur) |
 |-------------------|---------|:--------------------------:|
-| **Aucune Peiture Prévue** | [none]() | `none` |
+| **Canard Jésus Dinet** | [none]() | `2x4` |
+| **Canard Jésus** | [none]() | `1x1` |
+| **Propagande Grosse Vache Industries** | [none]() | `2x4` |
