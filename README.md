@@ -22,6 +22,7 @@
 | **Legibier1 Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/legibier1_head.png) | `1x1` |
 | **Wintarion Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/wintarion_head.png) | `1x1` |
 | **Nesky311 Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/nesky311_head.png) | `1x1` |
+| **Propagande Grosse Vache Industries** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/propagande_gvi.png) | `2x4` |
 
 # 🖼️ Liste des Textures à Ajouté
 
@@ -29,4 +30,3 @@
 |-------------------|---------|:--------------------------:|
 | **Canard Jésus Dinet** | [none]() | `2x4` |
 | **Canard Jésus** | [none]() | `1x1` |
-| **Propagande Grosse Vache Industries** | [none]() | `2x4` |
