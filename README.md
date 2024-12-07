@@ -23,10 +23,11 @@
 | **Wintarion Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/wintarion_head.png) | `1x1` |
 | **Nesky311 Head** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/nesky311_head.png) | `1x1` |
 | **Propagande Grosse Vache Industries** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/propagande_gvi.png) | `2x4` |
+| **Dieu Canard** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/dieu_canard.png) | `3x3` |
+| **Dieu Canard** | [Clique ici](https://github.com/BearlessDev/Survie-1.21/blob/main/CustomPainting_rp/assets/example/textures/painting/dieu_canard_2.png) | `3x3` |
 
 # 🖼️ Liste des Textures à Ajouté
 
 | Nom de la Texture | Exemple | Taille (Hauteur x Largeur) |
 |-------------------|---------|:--------------------------:|
-| **Canard Jésus Dinet** | [none]() | `2x4` |
-| **Canard Jésus** | [none]() | `1x1` |
+| **Aucune Texture** | [none]() | `none` |
